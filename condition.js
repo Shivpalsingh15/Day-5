@@ -22,9 +22,9 @@
 
 
 //while loop
-let value = 10
-while(value<=15){
-    console.log(value)
-    value++
-}
+// let value = 10
+// while(value<=15){
+//     console.log(value)
+//     value++
+// }
 
